@@ -7,7 +7,7 @@
 - 🔭 I’m currently working at [@Instituto Atlantico](https://github.com/Instituto-Atlantico)
 - 🌱 I’m currently learning more about Cloud Architecture, Software Engineering and Distributed computing
 - 👯 I’m looking to collaborate at [@prologic](https://github.com/ricardopadua/prologic-api)
-- 💬 Ask me about Go
+- 💬 Ask me about my projects or skills
 - 📫 How to reach me: [Telegram](https://t.me/ricardopadua)
 - ⚡ Fun fact: Leruaite life style.
 
