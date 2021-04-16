@@ -16,7 +16,4 @@
 <a href="https://www.linkedin.com/in/ricardopadua4"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/RicardoPdua4"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-gray?style=flat-square&logo=twitter"></a>
 <a href="https://stackoverflow.com/users/12135052/p%c3%a1dua"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-gray?style=flat-square&logo=stackoverflow"></a>
-
-Stats:
-
 <img src="https://github-readme-stats.vercel.app/api?username=ricardopadua&theme=vue-dark&show_icons=true" alt="logo" height="160" />
