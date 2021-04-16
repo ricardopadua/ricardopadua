@@ -1,31 +1,15 @@
-### Hi there 👋
 
-![Ricardo Padua Status](https://github-readme-stats.vercel.app/api?username=ricardopadua&theme=vue-dark&show_icons=true)
 
-<!--
-**ricardopadua/ricardopadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--**ricardopadua/ricardopadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Hey, I'm Pádua! 👋
 
 - 🔭 I’m currently working at [@Instituto Atlantico](https://github.com/Instituto-Atlantico)
-- 🚀 project open-soruce at [@prologic](https://github.com/ricardopadua/prologic-api)
+- 🌱 I’m currently learning more about Cloud Architecture, Software Engineering and Distributed computing
+- 👯 I’m looking to collaborate at [@prologic](https://github.com/ricardopadua/prologic-api)
 - 💬 Ask me about Go
 - 📫 How to reach me: [Telegram](https://t.me/ricardopadua)
 - ⚡ Fun fact: Leruaite life style.
-- :seedling: Learning more about Cloud Architecture, Software Engineering and Distributed computing
-
 
 ### :handshake: Contact Me
 
