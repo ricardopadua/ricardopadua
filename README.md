@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 ![Ricardo Padua Status](https://github-readme-stats.vercel.app/api?username=ricardopadua&theme=vue-dark&show_icons=true)
 
