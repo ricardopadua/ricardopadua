@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align= "center">
-  <img src = "https://raw.githubusercontent.com/ricardopadua/ricardopadua/main/101671442-43ca3300-3a33-11eb-8361-a4b480abe3df.gif" width = 250/>
- </p>
-
 ![Ricardo Padua Status](https://github-readme-stats.vercel.app/api?username=ricardopadua&theme=vue-dark&show_icons=true)
 
 <!--
