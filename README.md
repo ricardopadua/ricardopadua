@@ -2,7 +2,7 @@
 
 <!--**ricardopadua/ricardopadua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hey, I'm Pádua! 👋
+### Hey, I'm Rick! 👋
 
 - 🔭 I’m currently working at [@Instituto Atlantico](https://github.com/Instituto-Atlantico)
 - 🌱 I’m currently learning more about Cloud Architecture, Software Engineering and Distributed computing
