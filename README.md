@@ -4,7 +4,7 @@
 
 ### Hey, I'm Rick! 👋
 
-- 🔭 I’m currently working at [@Instituto Atlantico](https://github.com/Instituto-Atlantico)
+- 🔭 I’m currently working at [@Magnetis](https://github.com/magnetis)
 - 🌱 I’m currently learning more about Cloud Architecture, Software Engineering and Distributed computing
 - 👯 I’m looking to collaborate at [@prologic](https://github.com/ricardopadua/prologic-api)
 - 💬 Ask me about my projects or skills
